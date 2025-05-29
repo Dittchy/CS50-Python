@@ -1,0 +1,8 @@
+i = 0                  Initializing the value of i
+while i < 3:           Condition for the while loop
+    print("meow")      Action to be taken in the while loop
+    i += 1             The condition if fulfilled what to test next 
+
+
+This is the format for the while loop in any language.
+While loop is for the cases when we want the action to take place until a specific condition has been completed.
